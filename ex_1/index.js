@@ -1,0 +1,1 @@
+console.log("Running from ex_1 folder")
